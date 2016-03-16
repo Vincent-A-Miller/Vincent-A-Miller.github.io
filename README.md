@@ -1,2 +1,2 @@
-# tritechsc.github.io
-Tri-TGech Skills Center Github.com web page.
+# Vincent-A-Miller.github.io
+Tri-Tech Skills Center Github.com web page.
