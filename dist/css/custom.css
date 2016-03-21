@@ -28,8 +28,8 @@ font-size:14px;
 .navbar-inverse .navbar-brand{color:#FFB612;}
 .btn-default{
 background-color:#fff;
-	color:#00f;
-	border-color: #00f;
+	color:#047281;
+	border-color: #047281;
 	   border-width: 2px;
     border-radius: 10px;
 }
@@ -37,7 +37,7 @@ background-color:#fff;
 .btn-default:hover{
 background-color:#fff;
 	color:#000;
-	border-color: #00f;
+	border-color: #047281;
 	   border-width: 2px;
     border-radius: 10px;
 }
@@ -45,7 +45,7 @@ background-color:#fff;
 .btn-danger{
 background-color:#fff;
 	color:#f00;
-	border-color: #ff0000;
+	border-color: #047281;
 	   border-width: 3px;
     border-radius: 10px;
 }
@@ -53,7 +53,7 @@ background-color:#fff;
 .btn-danger:hover{
 background-color:#fff;
 	color:#000;
-	border-color: #ff0000;
+	border-color: #047281;
 	   border-width: 3px;
     border-radius: 10px;
 }
